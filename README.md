@@ -2,13 +2,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanAndrejko"/>
 
-<a href="https://github.com/BryanAndrejko/github-stats">
-<img src="https://github.com/BryanAndrejko/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/BryanAndrejko/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/BryanAndrejko/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/BryanAndrejko/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
-
 
 <!--
 **BryanAndrejko/BryanAndrejko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +17,14 @@
 ![](https://raw.githubusercontent.com/BryanAndrejko/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/BryanAndrejko/github-stats/master/generated/languages.svg#gh-light-mode-only)
 ```
+
+<a href="https://github.com/BryanAndrejko/github-stats">
+<img src="https://github.com/BryanAndrejko/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/BryanAndrejko/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/BryanAndrejko/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/BryanAndrejko/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
+
 
 Here are some ideas to get you started:
 
