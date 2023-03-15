@@ -1,8 +1,6 @@
 ### Hi there 👋 Welcome to my GitHub profile.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanAndrejko"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanAndrejko)](https://github.com/BryanAndrejko/github-readme-stats)
-
 
 <!--
 **BryanAndrejko/BryanAndrejko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
